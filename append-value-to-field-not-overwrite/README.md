@@ -24,7 +24,7 @@ For example, we have a field called "Solution History", and each time the "Solut
 
       {{fieldChange.toString}}
 
-      {{issue.Solution Logs}}
+      {{issue.Solution History}}
    ```
 
 3. Save and enable the Automation rule.
