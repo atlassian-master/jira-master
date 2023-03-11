@@ -10,7 +10,8 @@ There is a case that the field needs to be appended a new value, and the old val
 For example, we have a field called "Solution History", and each time the "Solution" value is updated, the "Solution History" will have the latest value of "Solution" added and also keep the old value  of "Solution History". This case is usable when workflow of the issue goes to reopen and second "Solution" or more "Solution" is needed to enter. The "Solution History" will help keep track fo the changes.
 
 **Skills Used:**
-1. 
+1. Automation : 
+2. Smart Value: Please refer to: https://support.atlassian.com/cloud-automation/docs/jira-smart-values-issues/
 
 **Implementation:**
-
+1. Create custom field
