@@ -1,6 +1,11 @@
 **Goal:**
 The value of JIRA field will be appended instead of overwriting; the value of JIRA field will be depending on other field.
 
+
+**Youtube Video:**
+https://youtu.be/ynR1WLeMHLA
+
+
 **Background:**
 
 By default, JIRA field will be replaced with new value. 
@@ -30,5 +35,3 @@ For example, we have a field called "Solution History", and each time the "Solut
 3. Save and enable the Automation rule.
 
 
-**Youtube Video**
-https://youtu.be/ynR1WLeMHLA
