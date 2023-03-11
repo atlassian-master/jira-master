@@ -15,5 +15,16 @@ For example, we have a field called "Solution History", and each time the "Solut
 
 **Implementation:**
 1. Create custom field.
-2. Setup the Automation Rule and enable it.
-3. Test
+2. Setup the Automation Rule.
+   a. Add condition when the "Solution" field is modified
+   b. Add action of "Edit issue fields" on "Solution History" field.
+   c. Enter the value:
+   ```
+      {{now}}: 
+
+      {{fieldChange.toString}}
+
+      {{issue.Solution Logs}}
+   ```
+
+3. Save and enable the Automation rule.
