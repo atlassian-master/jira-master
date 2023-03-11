@@ -28,3 +28,7 @@ For example, we have a field called "Solution History", and each time the "Solut
    ```
 
 3. Save and enable the Automation rule.
+
+
+**Youtube Video**
+https://youtu.be/ynR1WLeMHLA
