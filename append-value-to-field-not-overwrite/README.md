@@ -14,4 +14,6 @@ For example, we have a field called "Solution History", and each time the "Solut
 2. Smart Value: Please refer to: https://support.atlassian.com/cloud-automation/docs/jira-smart-values-issues/
 
 **Implementation:**
-1. Create custom field
+1. Create custom field.
+2. Setup the Automation Rule and enable it.
+3. Test
