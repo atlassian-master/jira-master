@@ -1,6 +1,6 @@
 #####  Goal:
 
-  Automatically assign the issue according to the sepecified condition
+  Automatically assign the issue according to the certain condition
 
 ##### Youtube Video:
 
