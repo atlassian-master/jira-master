@@ -48,9 +48,5 @@ if(p_value.equals('Highest')){
     log.debug('Setting the assignee to: ' + user.toString())
     issue.setAssignee(user)
 }
-
-
-
-
 ```
   - Save the workflow and test.
