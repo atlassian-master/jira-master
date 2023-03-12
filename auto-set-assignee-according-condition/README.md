@@ -12,8 +12,9 @@
 
 ### Skills Used:
 
-  - Script runner :
-  - Worflow post function:
+  - Script runner
+  - Worflow post function
+  - Groovy scripting
 
 
 ### Implementation:
