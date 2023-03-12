@@ -4,6 +4,8 @@
 
 ##### Youtube Video:
 
+https://youtu.be/6UOvSaSQX8A
+
 ##### Background:
 
    - By default, JIRA assignee can only be assigned to project lead or component lead or keeping unassigned.
